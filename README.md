@@ -1,1 +1,2 @@
-# gcso
+# synchronousBallMovement
+Ball moving synchronously
